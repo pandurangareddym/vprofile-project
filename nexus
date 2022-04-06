@@ -6,3 +6,4 @@ CENTRAL-REPO=vprofile-maven-central
 NEXUS-GRP-REPO=vpro-maven-group
 NEXUSIP=10.182.0.3
 NEXUSPORT=8081
+keyfile
